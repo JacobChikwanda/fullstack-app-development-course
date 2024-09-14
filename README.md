@@ -1,5 +1,8 @@
 # Full-Stack App Development for Beginners - Saturday Class Syllabus
 
+## Slack Invite
+https://join.slack.com/t/codewithchikwa/shared_invite/zt-2qjmftxxi-_27rpbe4BREP5pEl0yhB2Q
+
 ## Overview
 - **Duration**: 26 weeks
 - **Meeting Time**: Saturdays, 2–3 hours per session
